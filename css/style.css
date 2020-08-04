@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box
+}
+body, html {
+	height: 100%;
+}
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif
+}
+header.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url(../img/coffeehouse.jpg);
+  min-height: 75%;
+}
+.w3-bar,h1,button {
+  font-family: "Montserrat", sans-serif
+}
+
+ .fa-anchor, .fa-coffee {
+  font-size:200px;
+}
+footer a {
+  text-decoration: none;
+}
